@@ -2,10 +2,11 @@
   "name": "asmet/breadcrumbs",
   "description": "Breadcrumbs",
   "license": "MIT",
+  "version": "1.0",
   "authors": [
     {
-      "name": "Nick Asmetkin",
-      "email": "asmetkin_nick@mail.ru"
+      "name": "Name",
+      "email": "email@email.com"
     }
   ],
   "repositories": [
